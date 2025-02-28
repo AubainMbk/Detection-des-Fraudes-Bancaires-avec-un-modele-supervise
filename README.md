@@ -116,6 +116,4 @@ Nous avons testé le modèle sur plusieurs transactions :
 # **📢 Prochaine étape : Déploiement de l’API 🚀**  
 Le prochain objectif sera de **déployer notre modèle via une API Flask** et d’intégrer une interface web pour tester les transactions en temps réel.  
 
----
-🔥 **Travail accompli : Excellent !** 🔥  
-Tu veux que je t’aide pour la partie **déploiement** et **API Flask** ? 🚀
+
