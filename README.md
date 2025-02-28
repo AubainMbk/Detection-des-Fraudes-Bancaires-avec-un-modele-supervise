@@ -2,7 +2,7 @@
 
 ## 📌Objectif : Construire un modèle de détection de fraude sur les transactions bancaires.
 
-# **📌 Rapport **
+# 📌 Rapport 
 
 ## **1️⃣ Introduction**  
 
